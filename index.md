@@ -6,3 +6,5 @@ Ragnar Lothbrok ist ein Nordmann aus Kattegat. Er selbst soll ein direkter Nachf
 * stellt die Existenz der Götter immer in Frage
 * ziemlich groß und dennoch unfassbar schnell und agil
 * besitzt eine große Treffsicherheit
+
+> Es ist eine Sache eine Waffe zu benutzen, aber eine andere zu töten.
