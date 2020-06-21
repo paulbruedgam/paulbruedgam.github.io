@@ -8,3 +8,4 @@ Ragnar Lothbrok ist ein Nordmann aus Kattegat. Er selbst soll ein direkter Nachf
 * besitzt eine große Treffsicherheit
 
 > Es ist eine Sache eine Waffe zu benutzen, aber eine andere zu töten.
+<img src="https://www.publicdomainpictures.net/pictures/170000/velka/viking-golar.jpg"/>
